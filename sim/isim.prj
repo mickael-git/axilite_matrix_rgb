@@ -1,0 +1,9 @@
+vhdl work "../axi3_lite_pkg.vhd"
+vhdl work "../axilite_matrix.vhd"
+vhdl work "../axilite_3x3_lut.vhd"
+vhdl work "../axilite_to_memory.vhd"
+vhdl work "../ram_asym.vhd"
+
+vhdl work "tb_axilite_matrix.vhd"
+vhdl work "pkg_axilite_master_model.vhd"
+vhdl work "pkg_tools_tb.vhd"
